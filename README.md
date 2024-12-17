@@ -4,7 +4,8 @@
 
 ## Instructions
 
-Create a React application with **three buttons** and corresponding outputs.  
+Setup your React project by running `npm create vite@latest state-exercise`
+Create an application with **three buttons** and corresponding outputs.  
 All outputs should appear in the main `App.tsx` file.
 
 You will create **three components**:
